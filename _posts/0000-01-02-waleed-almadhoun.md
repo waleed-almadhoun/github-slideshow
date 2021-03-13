@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+Edits to my pull request!
 Use the left arrow to go back!
